@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+    margin: 0;
+
+}
+
+img {
+    height: 300px;
+    border-radius: 50%;
+    width: 300px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+#welcome {
+    height: 800px;
+    color: aqua;
+    opacity: 0.8;
+    background: linear-gradient(blue 0%, green 100%);
+    width: 100%;
+}
+
+#bio {
+    font-size: 40px;
+    padding: 50px;
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    background: black;
+    margin: auto;
+}
+
+p {
+    max-width: 450px font-size:17px;
+    margin: 25px auto;
+}
+
+.men {
+    background-color: burlywood;
+    position: fixed;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+
+}
+
+.link {
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: serif;
+    font-size: 20px;
+    display: inline;
+}
+
+.link:hover {
+    background-color: coral;
+    font-family: inherit;
+
+}
+
+#contact {
+    background-color: aqua;
+}
+
+#contact iframe {
+    width: 100%;
+
+
+}
